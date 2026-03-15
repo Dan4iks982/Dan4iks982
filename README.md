@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Daniel! 👋
 
-<!--
-**Dan4iks982/Dan4iks982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Programmer | Student at Daugavpils University (DU)
 
-Here are some ideas to get you started:
+- 🎓 Currently focusing on Algorithms, C++, and C#
+- 🛠 Working on university projects and improving my coding skills
+- ⚡ Committed to writing clean code and mastering Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Statistics
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan4iks982&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan4iks982&layout=compact&theme=radical)
+
+---
+
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,vscode,git,github" />
+</p>
+
+---
+*"The best way to predict the future is to invent it."*
